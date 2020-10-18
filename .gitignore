@@ -1,7 +1,8 @@
 vscode.cmd
-
+dev-gulp
 node_modules
 tmp
 temp
 old
-
+src
+dist
